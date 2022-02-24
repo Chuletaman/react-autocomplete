@@ -80,4 +80,4 @@ CSS modules
 
 11. How to render an HTML string coming from the server.
 
-Using the React doc server API
+Using the React DOM server API
