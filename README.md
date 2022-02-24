@@ -1,3 +1,7 @@
+## Setup
+
+In the project directory run `npm install` and after that `npm start`.
+
 ## Available Scripts
 
 In the project directory, you can run:
